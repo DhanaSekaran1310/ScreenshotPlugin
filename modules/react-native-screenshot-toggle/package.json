@@ -1,0 +1,19 @@
+{
+  "name": "react-native-screenshot-toggle",
+  "version": "0.0.0",
+  "description": "screenshot plugin",
+  "main": "src/index",
+  "codegenConfig": {
+    "name": "RNScreenshotToggleSpec",
+    "type": "modules",
+    "jsSrcsDir": "src"
+  },
+  "author": " <> ()",
+  "license": "UNLICENSED",
+  "homepage": "#readme",
+  "create-react-native-library": {
+    "type": "turbo-module",
+    "languages": "kotlin-objc",
+    "version": "0.48.5"
+  }
+}
