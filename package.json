@@ -15,7 +15,7 @@
     "react-native": "0.78.1",
     "react-native-screens": "^4.9.2",
     "react-native-vector-icons": "^10.2.0",
-    "react-native-screenshot-toggle": "link:./modules/react-native-screenshot-toggle"
+    "react-native-screenshot-plugin": "link:./modules/react-native-screenshot-plugin"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",

@@ -1,0 +1,17 @@
+{
+  "name": "react-native-screenshot-plugin",
+  "version": "0.0.0",
+  "description": "ScreenshotPlugin",
+  "main": "src/index",
+  "author": " <> ()",
+  "license": "UNLICENSED",
+  "homepage": "#readme",
+  "create-react-native-library": {
+    "type": "legacy-module",
+    "languages": "kotlin-swift",
+    "version": "0.48.8"
+  },
+  "dependencies": {
+    "react-native": "^0.78.1"
+  }
+}
